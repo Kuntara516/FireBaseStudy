@@ -1,0 +1,36 @@
+Firebase -> บริการจัดการหลังบ้าน
+บริการที่มี
+    Realtime Database, Cloud Firestore -> ฐานข้อมูล
+    Authentication -> จัดการผู้ใช้งาน
+    Cloud Message -> ระบบแจ้งเตือน
+    Cloud Storage -> จัดการไฟล์
+    Hosting -> เผยแพร่ Application
+    Performance Monitoring & Google Analytic -> วิเคราะห์ประสิทธิภาพ Application
+
+Realtime Database
+    บริการฐานข้อมูล เก็บข้อมูลซิงค์แบบเรียลไทม์ เหมาะใช้งานทั่วไป
+Cloud Firestore
+    บริการฐานข้อมูลแบบใหม่ปรับขนาดอัตโนมัติ
+
+Database
+    Relational Database 
+    --> SQL, Table, Structure Data, Set Link among Table, Vertical Scaling
+    Non-Relational Database
+    --> NoSQL, More Flexible, Horizontal Scaling
+
+NoSQL 4 patterns
+    Key-value Store
+    Documents Store
+    Graph Store
+    Wide Column Store
+
+Cloud Firestore
+    JSON, AutoSync, Security Rules
+    3 Parts Database, COllection, Documents
+
+JSON JavaScript Object Notation 
+-> เบา อ่าน เขียนง่าย
+์-> ีNumber, String, Boolean, Null, Array [var1,var2], Object{key1: Value1,..}, Map, geopoint, timestamp,refernce, document id
+
+
+
